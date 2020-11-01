@@ -1,0 +1,6 @@
+framework module Pods_PIMDB {
+  umbrella header "Pods-PIMDB-umbrella.h"
+
+  export *
+  module * { export * }
+}

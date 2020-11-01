@@ -1,0 +1,6 @@
+framework module Pods_PIMDBTests {
+  umbrella header "Pods-PIMDBTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
